@@ -1,0 +1,4 @@
+# requirements.txt
+aiohttp>=3.9.0
+packaging>=23.0
+zstandard>=0.22.0
